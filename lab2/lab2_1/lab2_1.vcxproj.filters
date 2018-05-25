@@ -34,6 +34,9 @@
     <Text Include="input.txt">
       <Filter>Исходные файлы</Filter>
     </Text>
+    <Text Include="input2.txt">
+      <Filter>Исходные файлы</Filter>
+    </Text>
   </ItemGroup>
   <ItemGroup>
     <None Include="test.bat">
